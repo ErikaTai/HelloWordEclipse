@@ -4,7 +4,6 @@ public class HelloWorld {
 	public static void main(String[] args) {
 		System.out.println("HelloWorld");
 		System.out.println("‚±‚ñ‚É‚¿‚Í¢ŠE");
-		System.out.println("GoodbyeWorld");
-		System.out.println("‚³‚æ‚È‚ç¢ŠE");
+		System.out.println("Have a nice day!");
 	}
 }
